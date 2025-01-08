@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  background-color: #da2d30;
+  color: #FFC300;
+}
+
+.title {
+  text-align: center;
+  margin-top: 50px;
+  font-size: 40px;
+}
+
+.food {
+  margin: 20px auto;
+  width: 200px;
+  background-color: rgb(245, 238, 238);
+  color: black;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.navbar {
+  background-color: #ddd;
+  padding: 20px;
+}
+.navbar a {
+  margin-right: 10px;
+  text-decoration: none;
+}
